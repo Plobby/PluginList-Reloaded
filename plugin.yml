@@ -1,0 +1,10 @@
+name: PluginList-Reloaded
+version: 1.0.0
+description: Custom plugin list
+author: plobnob
+main: com.plobnob.PluginList.Main
+
+commands:
+  plugins:
+    description: View a list of plugins
+    aliases: [plugin,pl]
